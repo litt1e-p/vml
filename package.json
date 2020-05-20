@@ -1,0 +1,20 @@
+{
+  "name": "vml",
+  "version": "0.0.1",
+  "description": "binary tree data processing tool",
+  "config": {
+    "libName": "vml"
+  },
+  "keywords": [
+    "vml",
+    "binary",
+    "tree",
+    "data",
+    "process"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/vml.umd.js",
+  "module": "dist/vml.esm.js",
+  "unpkg": "dist/vml.min.js"
+}
