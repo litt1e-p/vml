@@ -1,6 +1,6 @@
 {
   "name": "vml",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "binary tree data processing tool",
   "config": {
     "libName": "vml"
