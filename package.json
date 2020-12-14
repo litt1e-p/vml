@@ -1,6 +1,6 @@
 {
   "name": "vml",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "binary tree data processing tool",
   "config": {
     "libName": "vml"
@@ -12,6 +12,9 @@
     "data",
     "process"
   ],
+  "dependencies": {
+    "core-js": "^3.8.1"
+  },
   "author": "litt1e-p",
   "license": "MIT",
   "main": "dist/vml.umd.js",
