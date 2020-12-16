@@ -1,6 +1,6 @@
 {
   "name": "vml",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "binary tree data processing tool",
   "config": {
     "libName": "vml"
@@ -13,7 +13,8 @@
     "process"
   ],
   "dependencies": {
-    "core-js": "^3.8.1"
+    "core-js": "^3.8.1",
+    "regenerator-runtime": "^0.13.7"
   },
   "author": "litt1e-p",
   "license": "MIT",
